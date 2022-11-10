@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaudelbijay
-- 👀 I’m interested in Machine Learning (Deep Learning, Computer Vision, Memory Network), Control System, Reinforcement Learning and Robotics
+- 👀 I’m interested in Machine Learning (Deep Learning, Computer Vision, Control System, Reinforcement Learning and Robotics
 - 💞️ I’m looking to collaborate on Vision Based Control System for UAV
 - 📫 How to reach me: gaudelbijay10@gmail.com
 
